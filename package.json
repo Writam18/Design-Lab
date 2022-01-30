@@ -9,7 +9,7 @@
     "test": "mocha 'server/test/*.js' --recursive"
   },
   
-  "author": "shuvro",
+  "author": "writam",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
